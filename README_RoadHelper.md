@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="screenshots/logo.png" width="120" alt="Road Helper Logo" />
+  <img src="https://drive.google.com/file/d/1kPbao46yXePX9YFQ3etoq3Ttm0Ee6LNU/view?usp=sharing" width="120" />
 </p>
 
 <h1 align="center">🚨 Road Helper</h1>
